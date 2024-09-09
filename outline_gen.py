@@ -9,8 +9,7 @@ Dependencies:
 
 Usage:
     Parameter/s: course (string)
-    Returns: null
-    Outputs: .txt file containing outline (name is the course title)
+    Returns: array containing weekly topics as entries
 """
 
 def create_outline(course): #main entry function; takes in course as an input
@@ -34,11 +33,16 @@ def create_outline(course): #main entry function; takes in course as an input
         answer = tokenizer.decode(outputs[0], skip_special_tokens=True)
 
         outline_buffer.append(format_outline(answer)) #push to buffer
-        print(f"{week_num}/12 done") #indicates status during output generation
+        print(f"{week_num}/12 done")
 
+    return outline_buffer
+
+"""
+deprecated output code
     #outputs as file (change if necessary)
     with open(f"{course}.txt", "w") as file:
         for x in outline_buffer:
             file.write(x + "\n")
 
     print(f"Output written to {course}.txt")
+"""

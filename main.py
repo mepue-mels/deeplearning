@@ -13,4 +13,10 @@ Usage:
 from outline_gen import create_outline
 
 course = input("Enter course: ")
-create_outline(course)
+output = create_outline(course)
+
+with open(f"{course}.txt", "w") as file:
+    for x in output:
+        file.write(x + "\n")
+
+print(f"Output written to {course}.txt")
