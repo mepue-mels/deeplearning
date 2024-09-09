@@ -1,0 +1,204 @@
+Week 1 Topic: Fundamentals of Computer Systems
+
+Objectives:
+- Understand the basic structure and function of computer systems.
+- Explain how the CPU, memory, and I/O devices interact in a computer system.
+- Differentiate between system software and application software.
+- Explore the role of firmware in hardware initialization and control..
+
+Subtopics:
+- Basic Computer Components, CPU-Memory-I/O Interaction, System vs. Application Software, and Firmware Functionality.
+
+Activities:
+Exploring computer system setups and analyzing system components.
+
+Technologies Utilized:
+Hardware Emulation Tools.
+
+Week 2 Topic: Number Systems and Data Encoding
+
+Objectives:
+- Explain the significance of binary, octal, and hexadecimal number systems in computing.
+- Perform conversions between different number systems.
+- Understand the methods of data encoding, including ASCII and Unicode.
+- Analyze the importance of efficient data representation in system performance..
+
+Subtopics:
+- Number Systems, Data Encoding Methods, and Efficient Data Representation.
+
+Activities:
+Engaging in conversion exercises and exploring data encoding standards.
+
+Technologies Utilized:
+MATLAB for Number System Simulations.
+
+Week 3 Topic: Combinational Logic and Boolean Algebra
+
+Objectives:
+- Apply Boolean algebra principles to simplify logic expressions.
+- Design basic combinational logic circuits using logic gates such as AND, OR, and NOT.
+- Utilize Karnaugh maps to optimize combinational logic circuits.
+- Explore the application of logic in digital systems..
+
+Subtopics:
+- Boolean Algebra, Logic Gate Functions, Karnaugh Maps, and Combinational Circuit Design.
+
+Activities:
+Designing and simplifying logic circuits using digital logic design software.
+
+Technologies Utilized:
+Digital Circuit Design Tools.
+
+Week 4 Topic: CPU Structure and Operation
+
+Objectives:
+- Describe the internal structure of the CPU, including the control unit and ALU.
+- Understand how the fetch-decode-execute cycle processes instructions.
+- Explore the role of registers and the program counter in the CPU.
+- Analyze how control signals coordinate CPU functions..
+
+Subtopics:
+- CPU Components, Fetch-Decode-Execute Cycle, Registers, and Control Signals.
+
+Activities:
+Simulating the instruction execution cycle and analyzing the role of control signals.
+
+Technologies Utilized:
+CPU Simulation Software.
+
+Week 5 Topic: Instruction Set Architectures (ISA) and Addressing Modes
+
+Objectives:
+- Explain the structure and function of an instruction set architecture.
+- Differentiate between common instruction types, such as data transfer, arithmetic, and control instructions.
+- Understand various addressing modes and their role in accessing memory.
+- Compare the performance of RISC and CISC architectures..
+
+Subtopics:
+- Instruction Set Architectures, Instruction Types, Addressing Modes, and RISC vs. CISC.
+
+Activities:
+Writing and executing assembly language programs for different architectures.
+
+Technologies Utilized:
+Assembly Language Simulation Tools.
+
+Week 6 Topic: Memory Hierarchy and Cache Design
+
+Objectives:
+- Understand the hierarchical organization of memory in a computer.
+- Explore the function and design of cache memory in speeding up data access.
+- Explain different cache mapping techniques, including direct-mapped, associative, and set-associative caches.
+- Analyze the trade-offs between cache size, block size, and performance..
+
+Subtopics:
+- Memory Hierarchy, Cache Memory, Cache Mapping Techniques, and Performance Optimization.
+
+Activities:
+Designing and optimizing a cache memory system and testing its performance.
+
+Technologies Utilized:
+Cache Design Simulation Software.
+
+Week 7 Topic: Bus Systems and Data Transfer
+
+Objectives:
+- Describe the structure and function of the system bus.
+- Understand the different types of buses, such as data, address, and control buses.
+- Explore bus arbitration techniques to resolve conflicts in multi-device systems.
+- Analyze the performance implications of single-bus and multi-bus architectures..
+
+Subtopics:
+- System Bus Structure, Types of Buses, Bus Arbitration, and Bus Architectures.
+
+Activities:
+Simulating data transfer over bus systems and optimizing bus performance.
+
+Technologies Utilized:
+Bus Architecture Simulation Software.
+
+Week 8 Topic: Instruction Pipelining and Hazard Mitigation
+
+Objectives:
+- Understand the concept of instruction pipelining and how it improves processor performance.
+- Identify pipeline hazards, including data and control hazards.
+- Explore techniques for mitigating pipeline stalls, such as forwarding and branch prediction.
+- Analyze the effects of pipelining on overall CPU performance..
+
+Subtopics:
+- Instruction Pipelining, Pipeline Hazards, Hazard Mitigation, and Performance Analysis.
+
+Activities:
+Simulating a pipelined processor and exploring techniques to address hazards.
+
+Technologies Utilized:
+Processor Pipelining Simulation Software.
+
+Week 9 Topic: Parallel Architectures and Multicore Processors
+
+Objectives:
+- Understand the structure and function of parallel processing systems.
+- Differentiate between shared memory and distributed memory models in parallel architectures.
+- Explore the benefits and challenges of multicore processors.
+- Understand the role of interconnects and synchronization in multicore systems..
+
+Subtopics:
+- Parallel Processing, Shared vs. Distributed Memory, Multicore Processors, and Synchronization Mechanisms.
+
+Activities:
+Simulating multicore processors and evaluating their performance using parallel algorithms.
+
+Technologies Utilized:
+Multiprocessing Simulation Tools.
+
+Week 10 Topic: Input/Output Systems and Peripherals
+
+Objectives:
+- Describe the structure and operation of input/output systems in computer architecture.
+- Explore the function of device controllers in managing I/O operations.
+- Understand different I/O techniques, including programmed I/O, interrupts, and DMA.
+- Analyze the impact of I/O subsystems on overall system performance..
+
+Subtopics:
+- I/O System Structure, Device Controllers, I/O Techniques, and I/O Performance.
+
+Activities:
+Configuring and simulating various I/O techniques for performance analysis.
+
+Technologies Utilized:
+I/O Configuration Tools and DMA Simulators.
+
+Week 11 Topic: System Performance and Benchmarking
+
+Objectives:
+- Apply key performance metrics to evaluate the efficiency of computing systems.
+- Explore benchmarking techniques to assess system performance under different workloads.
+- Analyze the factors that affect system performance, including clock speed, memory access time, and bus bandwidth.
+- Investigate techniques for optimizing CPU, memory, and I/O performance..
+
+Subtopics:
+- Performance Metrics, Benchmarking Techniques, System Bottlenecks, and Performance Optimization.
+
+Activities:
+Running benchmark tests on various system configurations and optimizing performance.
+
+Technologies Utilized:
+Benchmarking Software and Performance Analysis Tools.
+
+Week 12 Topic: Emerging Trends in Computer Architecture
+
+Objectives:
+- Explore the latest advancements in processor design, including AI-accelerated architectures.
+- Understand the principles of quantum computing and its potential impact on future architectures.
+- Discuss the role of neuromorphic computing and brain-inspired processors.
+- Analyze the future trends in energy-efficient and low-power computing systems..
+
+Subtopics:
+- AI-Accelerated Architectures, Quantum Computing, Neuromorphic Processors, and Energy-Efficient Systems.
+
+Activities:
+Investigating future computing technologies and simulating their potential applications.
+
+Technologies Utilized:
+Quantum and Neuromorphic Computing Simulators.
+

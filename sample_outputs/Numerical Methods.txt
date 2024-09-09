@@ -1,0 +1,240 @@
+Week 1 Topic: Introduction to Numerical Methods
+
+Objectives:
+- Understand the fundamental concepts and applications of numerical methods in engineering and science.
+- Identify and analyze different types of numerical errors, including truncation and rounding errors.
+- Develop an understanding of numerical stability and its impact on computational accuracy.
+- Gain proficiency in using MATLAB as a tool for implementing numerical methods..
+
+Subtopics:
+- Overview of Numerical Methods
+- Types of Numerical Errors
+- Numerical Stability
+- Introduction to MATLAB for Numerical Computations.
+
+Activities:
+Exploring MATLAB to perform basic numerical operations and analyze errors in computations.
+
+Technologies Utilized:
+MATLAB.
+
+Week 2 Topic: Solutions of Nonlinear Equations
+
+Objectives:
+- Understand the mathematical foundation of nonlinear equations and their importance in various fields.
+- Apply the bisection method to find roots of nonlinear equations.
+- Implement the fixed-point iteration method and analyze its convergence behavior.
+- Use the Newton-Raphson method to efficiently solve nonlinear equations..
+
+Subtopics:
+- Introduction to Nonlinear Equations
+- Bisection Method
+- Fixed-Point Iteration
+- Newton-Raphson Method.
+
+Activities:
+Applying the bisection, fixed-point iteration, and Newton-Raphson methods to solve specific nonlinear equations using MATLAB.
+
+Technologies Utilized:
+MATLAB.
+
+Week 3 Topic: Iterative Bracketing Method
+
+Objectives:
+- Implement the bisection method to solve specific non-linear equations.
+- Implement the false position method to solve specific non-linear equations.
+- Apply convergence criteria to assess the performance of the bisection and false position methods.
+- Calculate the types of errors associated with iterative bracketing methods..
+
+Subtopics:
+- Bisection Method
+- False Position (Regula Falsi) Method
+- Convergence Criteria for Bracketing Methods
+- Error Analysis in Iterative Bracketing Techniques.
+
+Activities:
+Apply both the bisection and false position methods to find the roots of several non-linear equations.
+
+Technologies Utilized:
+MATLAB.
+
+Week 4 Topic: Interpolation and Polynomial Approximation
+
+Objectives:
+- Understand the principles of interpolation and its applications in data fitting and approximation.
+- Implement Lagrange interpolation to construct polynomials passing through given data points.
+- Use Newton’s divided difference method for polynomial interpolation.
+- Analyze errors in polynomial interpolation and strategies for minimizing them..
+
+Subtopics:
+- Interpolation and Polynomial Approximation
+- Lagrange Interpolation
+- Newton’s Divided Difference Method
+- Error Analysis in Interpolation.
+
+Activities:
+Constructing polynomial interpolations for given datasets using Lagrange and Newton’s methods in MATLAB.
+
+Technologies Utilized:
+MATLAB.
+
+Week 5 Topic: Numerical Differentiation and Richardson Extrapolation
+
+Objectives:
+- Explore the need for numerical differentiation in engineering analysis.
+- Implement forward and backward difference formulas to approximate derivatives.
+- Apply Richardson extrapolation to improve the accuracy of numerical differentiation.
+- Assess the stability and accuracy of different numerical differentiation techniques..
+
+Subtopics:
+- Numerical Differentiation Methods
+- Forward and Backward Difference Formulas
+- Richardson Extrapolation
+- Stability and Accuracy in Numerical Differentiation.
+
+Activities:
+Using MATLAB to calculate derivatives using finite difference methods and Richardson extrapolation, and evaluating their accuracy.
+
+Technologies Utilized:
+MATLAB.
+
+Week 6 Topic: Numerical Integration
+
+Objectives:
+- Explore the concept and applications of numerical integration in engineering and science.
+- Implement the trapezoidal rule to approximate definite integrals.
+- Use Simpson’s rule for numerical integration and compare its accuracy with the trapezoidal rule.
+- Apply Romberg integration for more accurate integral approximations..
+
+Subtopics:
+- Numerical Integration Concepts
+- Trapezoidal Rule
+- Simpson’s Rule
+- Romberg Integration.
+
+Activities:
+Applying trapezoidal and Simpson’s rules, as well as Romberg integration, to evaluate integrals of various functions using MATLAB.
+
+Technologies Utilized:
+MATLAB.
+
+Week 7 Topic: Numerical Methods for Ordinary Differential Equations (ODEs)
+
+Objectives:
+- Explore the application of numerical methods to solve ordinary differential equations in various fields.
+- Implement the midpoint method for numerically solving ODEs with improved accuracy over Euler’s method.
+- Apply the Runge-Kutta methods for solving higher-order ODEs.
+- Analyze the stability and accuracy of different numerical methods for solving ODEs..
+
+Subtopics:
+- Numerical Methods for ODEs
+- Midpoint Method
+- Runge-Kutta Methods
+- Stability and Accuracy in ODE Solutions.
+
+Activities:
+Implementing MATLAB to solve ODEs using the midpoint method and Runge-Kutta methods, focusing on the stability and accuracy of the solutions.
+
+Technologies Utilized:
+MATLAB.
+
+Week 8 Topic: Numerical Solutions of Partial Differential Equations (PDEs)
+
+Objectives:
+- Explore numerical methods for solving partial differential equations commonly encountered in engineering applications.
+- Implement finite difference methods to approximate solutions to PDEs.
+- Use the method of lines to convert PDEs into systems of ODEs for easier numerical solution.
+- Evaluate the stability and accuracy of different numerical methods for solving PDEs..
+
+Subtopics:
+- Numerical Techniques for PDEs
+- Finite Difference Methods
+- Method of Lines
+- Stability and Accuracy in PDE Solutions.
+
+Activities:
+Using MATLAB to solve PDEs using finite difference methods and the method of lines, analyzing their effectiveness and accuracy.
+
+Technologies Utilized:
+MATLAB.
+
+Week 9 Topic: Eigenvalue Problems and Iterative Methods
+
+Objectives:
+- Understand the significance of eigenvalue problems in various engineering and scientific applications.
+- Implement the power method to approximate the largest eigenvalue of a matrix.
+- Use the inverse power method to find the smallest eigenvalue of a matrix.
+- Apply the QR algorithm to compute all eigenvalues of a matrix..
+
+Subtopics:
+- Eigenvalue Problems in Engineering
+- Power Method
+- Inverse Power Method
+- QR Algorithm for Eigenvalue Computation.
+
+Activities:
+Solving eigenvalue problems using the power method, inverse power method, and QR algorithm in MATLAB.
+
+Technologies Utilized:
+MATLAB.
+
+Week 10 Topic: Optimization Techniques
+
+Objectives:
+- Explore the role of optimization in numerical methods and engineering applications.
+- Implement gradient descent to solve unconstrained optimization problems.
+- Apply the method of Lagrange multipliers for constrained optimization.
+- Evaluate the efficiency and convergence of different optimization algorithms..
+
+Subtopics:
+- Introduction to Optimization
+- Gradient Descent Method
+- Lagrange Multipliers for Constrained Optimization
+- Convergence and Efficiency of Optimization Algorithms.
+
+Activities:
+Using gradient descent and Lagrange multipliers to solve optimization problems in engineering.
+
+Technologies Utilized:
+MATLAB.
+
+Week 11 Topic: Numerical Stability, Error Analysis, and Conditioning
+
+Objectives:
+- Understand the importance of numerical stability and conditioning in computational methods.
+- Analyze the stability of various numerical algorithms used in the course.
+- Apply condition numbers to assess the sensitivity of numerical problems to input perturbations.
+- Develop strategies to improve numerical stability and reduce errors in computations..
+
+Subtopics:
+- Numerical Stability in Computation
+- Stability Analysis of Algorithms
+- Condition Numbers in Numerical Analysis
+- Strategies for Reducing Errors.
+
+Activities:
+Conducting stability and error analysis using MATLAB across various numerical methods, focusing on improving computational reliability.
+
+Technologies Utilized:
+MATLAB.
+
+Week 12 Topic: Final Project and Case Studies in Numerical Methods
+
+Objectives:
+- Integrate various numerical methods to solve a comprehensive, real-world engineering problem.
+- Apply advanced numerical techniques to model and simulate complex engineering systems.
+- Critically evaluate the strengths and limitations of different numerical approaches in addressing the problem.
+- Present a detailed report and presentation showcasing the application of numerical methods in solving the problem..
+
+Subtopics:
+- Integration of Numerical Methods
+- Advanced Modeling and Simulation Techniques
+- Critical Evaluation of Numerical Approaches
+- Final Project Presentation and Reporting.
+
+Activities:
+Completing a final project that incorporates multiple numerical methods to solve a complex engineering challenge, followed by a presentation and detailed report of the findings.
+
+Technologies Utilized:
+MATLAB.
+

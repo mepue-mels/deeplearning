@@ -1,0 +1,240 @@
+Week 1 Topic: Introduction to Algorithms and Flowcharts
+
+Objectives:
+- Understand the importance of algorithms in problem-solving.
+- Learn to design algorithms for basic problems.
+- Use flowcharts to visually represent algorithms.
+- Translate real-world problems into algorithmic steps..
+
+Subtopics:
+- Importance of Algorithms
+- Designing Simple Algorithms
+- Introduction to Flowcharts
+- Representing Algorithms Visually.
+
+Activities:
+Design an algorithm for a simple task, such as calculating the sum of two numbers, and create a flowchart to represent it.
+
+Technologies Utilized:
+Flowcharting Tool.
+
+Week 2 Topic: Variables and Constants
+
+Objectives:
+- Explain the difference between variables and constants in a program.
+- Declare and initialize variables in a program.
+- Use constants to improve program reliability.
+- Demonstrate the use of variables in simple calculations..
+
+Subtopics:
+- Variables in Programming
+- Constants and Their Uses
+- Initializing Variables
+- Performing Calculations with Variables.
+
+Activities:
+Develop a simple program that uses both variables and constants to perform arithmetic operations.
+
+Technologies Utilized:
+IDE.
+
+Week 3 Topic: Working with Data: Variables and Constants
+
+Objectives:
+- Understand the role of variables and constants in programming.
+- Declare and initialize variables of different data types.
+- Use constants to store fixed values in a program.
+- Implement variables and constants in simple calculations and data manipulations..
+
+Subtopics:
+- Role of Variables and Constants
+- Declaring and Initializing Variables
+- Using Constants in Programs
+- Simple Calculations with Variables and Constants.
+
+Activities:
+Develop a program that performs calculations using variables and constants, demonstrating how they are declared and initialized.
+
+Technologies Utilized:
+IDE.
+
+Week 4 Topic: Looping Structures: Repetition in Programs
+
+Objectives:
+- Learn the importance of loops in automating repetitive tasks.
+- Implement for and while loops to repeat code execution.
+- Use loops to process data in collections such as lists.
+- Solve problems that require repeated actions using loops..
+
+Subtopics:
+- Importance of Loops
+- Implementing For and While Loops
+- Processing Collections with Loops
+- Problem-Solving with Loops.
+
+Activities:
+Write a program that uses a loop to generate the multiplication table for a number provided by the user.
+
+Technologies Utilized:
+IDE.
+
+Week 5 Topic: Functions: Organizing Code for Reusability
+
+Objectives:
+- Understand the concept of functions and their role in modular programming.
+- Write functions to encapsulate code that performs specific tasks.
+- Pass parameters to functions and return results.
+- Use functions to improve code organization and reusability..
+
+Subtopics:
+- Concept of Functions in Programming
+- Writing and Using Functions
+- Passing Parameters and Returning Results
+- Improving Code Organization with Functions.
+
+Activities:
+Write a program that includes a function to calculate the total cost of items in a shopping cart, demonstrating the use of functions for modularity.
+
+Technologies Utilized:
+IDE.
+
+Week 6 Topic: Functions: Basics and Implementation
+
+Objectives:
+- Understand the purpose and benefits of using functions in programming.
+- Define and call functions in a program.
+- Pass arguments to functions and return values.
+- Create modular programs using functions..
+
+Subtopics:
+- Introduction to Functions
+- Defining and Calling Functions
+- Passing Arguments and Returning Values
+- Modular Programming with Functions.
+
+Activities:
+Write a program that uses multiple functions to perform different tasks.
+
+Technologies Utilized:
+IDE.
+
+Week 7 Topic: Advanced Function Techniques
+
+Objectives:
+- Implement functions with default parameters.
+- Utilize variable-length argument lists in functions.
+- Explore higher-order functions and their applications.
+- Practice using anonymous functions in programming..
+
+Subtopics:
+- Default Parameters in Functions
+- Variable-Length Arguments
+- Higher-Order Functions
+- Anonymous Functions.
+
+Activities:
+Develop a program that uses a function with default parameters and a variable-length argument list.
+
+Technologies Utilized:
+IDE.
+
+Week 8 Topic: Working with Collections: Lists and Arrays
+
+Objectives:
+- Define lists and arrays as collection data types.
+- Perform operations such as adding, removing, and accessing elements in lists and arrays.
+- Implement list and array traversal techniques.
+- Use lists and arrays to store and manage collections of data efficiently..
+
+Subtopics:
+- Introduction to Lists and Arrays
+- Basic Operations on Lists and Arrays
+- Traversing Lists and Arrays
+- Efficient Data Management with Lists and Arrays.
+
+Activities:
+Design a program that uses lists or arrays to store and manipulate a collection of data, demonstrating various operations on the data.
+
+Technologies Utilized:
+IDE.
+
+Week 9 Topic: Files
+
+Objectives:
+- Define the terminologies for file input and output.
+- Use a loop to process the contents of a file.
+- Use an array to store the contents of a file.
+- Process the contents of a record using a program..
+
+Subtopics:
+- Introduction to File Input and Output
+- Using Loops to Process Files
+- Using Files and Arrays
+- Processing Records.
+
+Activities:
+Design a program that reads the contents of a file and stores it in an array.
+
+Technologies Utilized:
+Flowcharting Tool.
+
+Week 10 Topic: Dictionaries and Key-Value Pairs
+
+Objectives:
+- Introduce dictionaries as a key-value data structure.
+- Perform basic operations such as adding, removing, and updating dictionary entries.
+- Implement dictionaries to model real-world data scenarios.
+- Use dictionaries in problem-solving to manage and retrieve data efficiently..
+
+Subtopics:
+- Introduction to Dictionaries
+- Basic Dictionary Operations
+- Modeling Data with Dictionaries
+- Problem-Solving with Dictionaries.
+
+Activities:
+Develop a program that uses a dictionary to store and retrieve information, such as a contact list or inventory management system.
+
+Technologies Utilized:
+IDE.
+
+Week 11 Topic: Introduction to Debugging Techniques
+
+Objectives:
+- Understand the importance of debugging in software development.
+- Use debugging tools to identify and resolve errors in code.
+- Implement strategies for effective debugging and error prevention.
+- Write robust code by anticipating and handling potential errors..
+
+Subtopics:
+- Importance of Debugging
+- Using Debugging Tools
+- Debugging Strategies
+- Writing Robust Code with Error Handling.
+
+Activities:
+Write a program with intentional errors, then use debugging tools to identify and fix the issues, ensuring the program runs correctly.
+
+Technologies Utilized:
+IDE and Debugger.
+
+Week 12 Topic: Introduction to GUI Design and Event-Driven Programming
+
+Objectives:
+- Understand the basics of graphical user interface (GUI) design.
+- Implement simple GUIs using event-driven programming concepts.
+- Write event handlers to respond to user interactions.
+- Design and develop programs with intuitive GUIs to enhance user experience..
+
+Subtopics:
+- Basics of GUI Design
+- Event-Driven Programming Concepts
+- Writing Event Handlers
+- Enhancing User Experience with GUI Design.
+
+Activities:
+Create a simple GUI-based program that responds to user input through event handlers, demonstrating basic event-driven programming techniques.
+
+Technologies Utilized:
+IDE and GUI Design Tool.
+

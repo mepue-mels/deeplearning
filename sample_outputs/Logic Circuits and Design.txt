@@ -1,0 +1,240 @@
+Week 1 Topic: Introduction to Digital Logic Systems
+
+Objectives:
+- Define the basic principles of digital logic systems and their importance in electronic devices.
+- Differentiate between combinational and sequential circuits.
+- Explain the use of binary numbers and logic levels in digital circuits.
+- Design simple logic circuits using basic gates and analyze their behavior..
+
+Subtopics:
+- Digital Logic Principles
+- Combinational vs. Sequential Circuits
+- Binary Numbers and Logic Levels
+- Basic Gate Circuit Design.
+
+Activities:
+Designing a simple circuit that converts analog sensor inputs to digital signals using basic logic gates.
+
+Technologies Utilized:
+Logisim.
+
+Week 2 Topic: Boolean Algebra and Logic Circuit Design
+
+Objectives:
+- Apply the principles of Boolean algebra to simplify logic expressions.
+- Develop truth tables from complex Boolean expressions.
+- Simplify complex Boolean expressions using Boolean theorems.
+- Design and implement optimized digital circuits using simplified Boolean expressions..
+
+Subtopics:
+- Boolean Algebra Principles
+- Truth Table Development
+- Boolean Expression Simplification
+- Circuit Design and Implementation.
+
+Activities:
+Designing a digital circuit for automated lighting control using simplified Boolean algebra and truth tables.
+
+Technologies Utilized:
+Logisim.
+
+Week 3 Topic: Karnaugh Maps and Circuit Optimization Techniques
+
+Objectives:
+- Explain the purpose and structure of Karnaugh maps (K-Maps).
+- Use K-Maps to simplify complex Boolean functions by grouping adjacent cells.
+- Incorporate “don’t care” conditions into Karnaugh maps for further simplification.
+- Implement optimized digital circuits derived from K-Maps..
+
+Subtopics:
+- Introduction to Karnaugh Maps
+- Grouping and Simplification
+- Don’t Care Conditions
+- Circuit Implementation from K-Maps.
+
+Activities:
+Designing an efficient digital security system using optimized Boolean expressions obtained from Karnaugh maps.
+
+Technologies Utilized:
+Logisim.
+
+Week 4 Topic: SOP and POS Form Implementations
+
+Objectives:
+- Convert truth tables into Sum of Products (SOP) and Product of Sums (POS) forms.
+- Analyze and simplify logical expressions through SOP and POS conversions.
+- Design digital circuits based on SOP and POS forms for specific functions.
+- Evaluate the performance and efficiency of circuits using different logic forms..
+
+Subtopics:
+- SOP and POS Conversion
+- Simplification Techniques
+- Circuit Design Using SOP and POS
+- Performance Evaluation.
+
+Activities:
+Designing a digital decision-making circuit that determines outcomes based on SOP and POS logic expressions.
+
+Technologies Utilized:
+Logisim.
+
+Week 5 Topic: Implementation of Logical Expressions Using Universal Gates
+
+Objectives:
+- Demonstrate how NAND and NOR gates can be used to construct any logic circuit.
+- Design digital circuits using only NAND or NOR gates.
+- Optimize logic circuits by reducing the number of gates and logic levels using NAND and NOR gates.
+- Compare the advantages and limitations of using universal gates in digital design..
+
+Subtopics:
+- NAND and NOR as Universal Gates
+- Circuit Design with Universal Gates
+- Circuit Optimization
+- Comparative Analysis.
+
+Activities:
+Designing a digital access control system that uses only NAND and NOR gates for all logical functions.
+
+Technologies Utilized:
+Logisim.
+
+Week 6 Topic: Multiplexers, Demultiplexers, and Data Routing
+
+Objectives:
+- Explain the role of multiplexers in selecting data inputs within digital systems.
+- Implement logical functions using multiplexers to simplify circuit design.
+- Describe the operation of demultiplexers in directing data outputs.
+- Design integrated digital systems using multiplexers and demultiplexers for data routing..
+
+Subtopics:
+- Multiplexer Functionality and Design
+- Implementing Functions with Multiplexers
+- Demultiplexer Operation
+- Integrated Data Routing Systems.
+
+Activities:
+Designing a data communication network that manages multiple inputs and outputs using multiplexers and demultiplexers.
+
+Technologies Utilized:
+Logisim.
+
+Week 7 Topic: Encoders, Decoders, and Signal Processing
+
+Objectives:
+- Explain the function of encoders and decoders in digital circuits.
+- Design circuits that use encoders to convert data into specific codes.
+- Implement decoders to reconstruct original data from encoded signals.
+- Analyze the efficiency of signal processing techniques using encoders and decoders..
+
+Subtopics:
+- Encoder and Decoder Functions
+- Circuit Design with Encoders
+- Data Reconstruction with Decoders
+- Signal Processing Efficiency.
+
+Activities:
+Designing a digital communication system that uses encoders and decoders to transmit and receive encoded messages efficiently.
+
+Technologies Utilized:
+Logisim.
+
+Week 8 Topic: Flip-Flops, Latches, and Sequential Circuit Design
+
+Objectives:
+- Describe the operation and characteristics of flip-flops and latches as essential memory elements in digital circuits.
+- Differentiate between various types of flip-flops, such as SR, D, JK, and T, and their applications.
+- Design sequential circuits using flip-flops and latches for specific functions.
+- Analyze the timing and behavior of sequential circuits in memory storage and control..
+
+Subtopics:
+- Flip-Flop and Latch Operations
+- Types of Flip-Flops
+- Sequential Circuit Design
+- Timing and Behavior Analysis.
+
+Activities:
+Designing a digital counting system that uses flip-flops and latches to store and display counts.
+
+Technologies Utilized:
+Logisim.
+
+Week 9 Topic: Counter Design and Shift Register Implementation
+
+Objectives:
+- Explain the principles of asynchronous and synchronous counters in digital systems.
+- Design counters with varying moduli to achieve specific counting sequences.
+- Implement shift registers for data storage and transfer in sequential circuits.
+- Evaluate the performance and applications of counters and shift registers in digital designs..
+
+Subtopics:
+- Asynchronous and Synchronous Counter Design
+- Moduli and Counting Sequences
+- Shift Register Implementation
+- Performance and Application Evaluation.
+
+Activities:
+Designing a digital sequence generator that produces specific patterns using synchronous counters and shift registers.
+
+Technologies Utilized:
+Logisim.
+
+Week 10 Topic: State Machines and Sequential Logic Design
+
+Objectives:
+- Develop state diagrams and tables to represent the behavior of sequential logic circuits.
+- Implement digital systems using finite state machines (FSMs) based on state diagrams and tables.
+- Optimize state machines to enhance the performance of sequential circuits.
+- Analyze the functionality and reliability of state machines in real-world digital applications..
+
+Subtopics:
+- State Diagram and Table Development
+- FSM Implementation
+- State Machine Optimization
+- Functionality and Reliability Analysis.
+
+Activities:
+Designing a digital traffic light control system that uses state machines to manage signal changes and traffic flow.
+
+Technologies Utilized:
+Logisim.
+
+Week 11 Topic: Synchronous and Asynchronous Circuits
+
+Objectives:
+- Describe the fundamental concepts of synchronous circuits.
+- Design asynchronous circuits by defining state transitions without a global clock signal.
+- Explain the timing challenges of synchronous circuits.
+- Compare synchronous and asynchronous circuits in terms of their design complexity, performance, and timing issues..
+
+Subtopics:
+- Introduction to Synchronous Circuits
+- Designing Asynchronous Circuits
+- Timing Challenges
+- Design Comparison.
+
+Activities:
+Designing a data transfer system that includes both synchronous and asynchronous components.
+
+Technologies Utilized:
+Logisim.
+
+Week 12 Topic: Algorithmic State Machine (ASM)
+
+Objectives:
+- Interpret Algorithmic State Machine (ASM) charts.
+- Use ASM blocks and boxes effectively in ASM charts.
+- Design digital systems using ASM methodology.
+- Describe real-world applications of ASM..
+
+Subtopics:
+- ASM Charts
+- ASM Blocks and Boxes
+- Designing with ASM
+- ASM Applications.
+
+Activities:
+Designing a digital traffic light controller using ASM methodology, creating ASM charts, blocks, and boxes, and implementing the design to control traffic lights at an intersection.
+
+Technologies Utilized:
+Logisim.
+

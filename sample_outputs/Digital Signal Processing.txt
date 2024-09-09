@@ -1,0 +1,204 @@
+Week 1 Topic: Introduction to Signals and Systems
+
+Objectives:
+- Define and classify different types of signals and systems.
+- Analyze continuous-time and discrete-time signals.
+- Explain the concept of system linearity and time-invariance.
+- Apply basic transformations such as time-shifting and scaling to signals..
+
+Subtopics:
+- Classification of Signals, Continuous-Time vs. Discrete-Time Signals, System Properties, and Signal Transformations.
+
+Activities:
+Completing a signal classification and transformation project.
+
+Technologies Utilized:
+MATLAB.
+
+Week 2 Topic: Discrete-Time Signals and Systems in Time Domain
+
+Objectives:
+- Describe the characteristics of discrete-time signals and systems.
+- Use convolution to calculate the output of linear time-invariant (LTI) systems.
+- Evaluate the causality and stability of discrete-time systems.
+- Perform discrete-time convolution for various input signals..
+
+Subtopics:
+- Discrete-Time Signals and Systems, Convolution, System Stability, and Inverse Convolution.
+
+Activities:
+Completing a system output calculation project using convolution.
+
+Technologies Utilized:
+MATLAB.
+
+Week 3 Topic: Z-Transform and System Analysis
+
+Objectives:
+- Define the Z-transform and its application to discrete-time systems.
+- Solve linear difference equations using the Z-transform.
+- Analyze system poles and zeros to assess stability.
+- Perform inverse Z-transform to reconstruct signals in the time domain..
+
+Subtopics:
+- Z-Transform Overview, Difference Equations, Stability Analysis with Poles and Zeros, and Inverse Z-Transform.
+
+Activities:
+Completing a project on Z-transform applications for system stability analysis.
+
+Technologies Utilized:
+MATLAB.
+
+Week 4 Topic: Time-Invariant Discrete Linear Systems
+
+Objectives:
+- Explain the key concepts and properties of time-invariant discrete linear systems.
+- Apply the Z-transform to analyze and solve problems involving discrete linear systems.
+- Calculate the energy and power of discrete signals.
+- Use state variable analysis to model and analyze discrete linear systems..
+
+Subtopics:
+- Definitions and Properties, The Z-Transform, Energy and Power of Discrete Signals, and State Variable Analysis.
+
+Activities:
+Completing a discrete system analysis and design project.
+
+Technologies Utilized:
+MATLAB.
+
+Week 5 Topic: FIR Filter Design Using Frequency Sampling Method
+
+Objectives:
+- Design finite impulse response (FIR) filters using the frequency sampling method.
+- Evaluate the frequency response of FIR filters.
+- Implement various FIR filter structures for signal processing applications.
+- Compare the frequency sampling method with other FIR filter design methods..
+
+Subtopics:
+- FIR Filter Design, Frequency Sampling Method, FIR Filter Structures, and Filter Design Comparison.
+
+Activities:
+Completing a FIR filter design project using the frequency sampling method.
+
+Technologies Utilized:
+MATLAB.
+
+Week 6 Topic: Infinite Impulse Response Filters
+
+Objectives:
+- Derive general expressions for the properties of Infinite Impulse Response (IIR) filters.
+- Analyze first-order IIR filter sections.
+- Analyze second-order IIR filter sections.
+- Implement IIR filters using various structures, such as direct form I and II, cascade form, and parallel form..
+
+Subtopics:
+- General Expressions for the Properties of IIR Filters, First-Order Section, General Second-Order Section, and Structures for Implementation.
+
+Activities:
+Designing and implementing IIR filters.
+
+Technologies Utilized:
+MATLAB.
+
+Week 7 Topic: Fast Fourier Transform (FFT) and its Applications
+
+Objectives:
+- Define the Fast Fourier Transform (FFT) and explain its computational advantages over the Discrete Fourier Transform (DFT).
+- Implement the FFT to efficiently compute the DFT.
+- Analyze the effects of windowing and leakage in FFT applications.
+- Use the FFT for signal filtering and spectral analysis..
+
+Subtopics:
+- FFT Definition, FFT Algorithm, Windowing and Leakage Effects, and FFT-Based Filtering.
+
+Activities:
+Completing an FFT-based signal processing project focusing on filtering and spectral analysis.
+
+Technologies Utilized:
+MATLAB.
+
+Week 8 Topic: Multirate Signal Processing and Decimation
+
+Objectives:
+- Define the principles of multirate signal processing and its importance in DSP.
+- Implement decimation and interpolation techniques to change signal rates.
+- Design efficient multirate systems using polyphase structures.
+- Analyze the use of multirate techniques in real-world applications..
+
+Subtopics:
+- Multirate Processing Overview, Decimation and Interpolation, Polyphase Structures, and Multirate Applications.
+
+Activities:
+Completing a multirate signal processing project using decimation and interpolation.
+
+Technologies Utilized:
+MATLAB.
+
+Week 9 Topic: Adaptive Filters and LMS Algorithm
+
+Objectives:
+- Define adaptive filtering and its role in real-time signal processing.
+- Implement the Least Mean Squares (LMS) algorithm for adaptive filter design.
+- Analyze the performance of adaptive filters in noise cancellation applications.
+- Design adaptive filters for dynamic signal environments such as telecommunications..
+
+Subtopics:
+- Adaptive Filtering Basics, LMS Algorithm, Noise Cancellation, and Adaptive Filtering in Telecommunications.
+
+Activities:
+Completing an adaptive filter design project using the LMS algorithm.
+
+Technologies Utilized:
+MATLAB.
+
+Week 10 Topic: Wavelet Transform for Time-Frequency Signal Analysis
+
+Objectives:
+- Define the wavelet transform and explain its advantages for analyzing non-stationary signals.
+- Apply the discrete wavelet transform (DWT) for signal decomposition.
+- Use wavelet transforms for signal denoising and compression.
+- Compare the wavelet transform with the Fourier transform in practical applications..
+
+Subtopics:
+- Wavelet Transform Concepts, Discrete Wavelet Transform, Denoising and Compression with Wavelets, and Wavelet vs. Fourier Transform.
+
+Activities:
+Completing a project on wavelet-based signal processing and denoising.
+
+Technologies Utilized:
+MATLAB.
+
+Week 11 Topic: Power Spectrum Estimation Using Parametric and Non-Parametric Methods
+
+Objectives:
+- Explain the importance of power spectrum estimation in DSP.
+- Implement non-parametric methods such as the periodogram for power spectral analysis.
+- Apply parametric methods such as autoregressive (AR) models for power spectrum estimation.
+- Compare parametric and non-parametric methods in terms of accuracy and computational efficiency..
+
+Subtopics:
+- Power Spectrum Estimation, Non-Parametric Methods, Parametric Models, and Comparison of Estimation Techniques.
+
+Activities:
+Completing a power spectrum estimation project using both parametric and non-parametric methods.
+
+Technologies Utilized:
+MATLAB.
+
+Week 12 Topic: Applications of DSP in Communication and Real-Time Systems
+
+Objectives:
+- Explore the role of DSP in modern communication systems.
+- Implement modulation and demodulation algorithms for communication signals.
+- Analyze the challenges of real-time DSP in embedded systems.
+- Design and simulate DSP-based systems for applications in telecommunications and audio processing..
+
+Subtopics:
+- DSP in Communication Systems, Modulation and Demodulation, Real-Time DSP Challenges, and DSP Applications in Telecommunications.
+
+Activities:
+Completing a real-time DSP project focused on communication systems.
+
+Technologies Utilized:
+MATLAB.
+
